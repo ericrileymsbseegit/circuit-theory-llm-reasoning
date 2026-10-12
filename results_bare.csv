@@ -1,0 +1,3025 @@
+id,n_parallel,condition,rp_true,vb_true,rp_model,vb_model,rp_correct,vb_correct,both_correct,response
+1,1,bare,120.1,3.2232,120.1,3.2231,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 120.1 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 3.3 \times \frac{5038.4}{120.1 + 5038.4}$$
+
+$$V_B = 3.3 \times \frac{5038.4}{5158.5}$$
+
+$$V_B = 3.3 \times 0.976717$$
+
+$$V_B = 3.2231 \text{ V}$$
+
+---
+
+R_parallel = 120.1000
+VB = 3.2231"
+2,1,bare,1843.7,15.45,1843.7,15.4581,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 1843.7 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 24.0 \times \frac{3331.6}{1843.7 + 3331.6}$$
+
+$$V_B = 24.0 \times \frac{3331.6}{5175.3}$$
+
+$$V_B = 24.0 \times 0.644089$$
+
+$$V_B = 15.4581 \text{ volts}$$
+
+---
+
+R_parallel = 1843.7000
+VB = 15.4581"
+3,1,bare,3854.1,1.7284,3854.1,1.7288,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 3854.1 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 9.0 \times \frac{916.1}{3854.1 + 916.1}$$
+
+$$V_B = 9.0 \times \frac{916.1}{4770.2}$$
+
+$$V_B = 9.0 \times 0.192087$$
+
+$$V_B = 1.7287831 \text{ V}$$
+
+---
+
+R_parallel = 3854.1000
+VB = 1.7288"
+4,1,bare,108.3,4.3337,108.3,4.3323,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 108.3 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{704.4}{108.3 + 704.4}$$
+
+$$V_B = 5.0 \times \frac{704.4}{812.7}$$
+
+$$V_B = 5.0 \times 0.866474$$
+
+$$V_B = 4.3323 \text{ volts}$$
+
+---
+
+R_parallel = 108.3000
+VB = 4.3323"
+5,1,bare,319.9,7.2216,319.9,7.2232,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 319.9 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{297.0}{319.9 + 297.0}$$
+
+$$V_B = 15.0 \times \frac{297.0}{616.9}$$
+
+$$V_B = 15.0 \times 0.481548$$
+
+$$V_B = 7.2232 \text{ volts}$$
+
+---
+
+R_parallel = 319.9000
+VB = 7.2232"
+6,1,bare,71.0,8.5008,71.0,8.5011,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to B, the equivalent resistance is simply:
+
+R_parallel = R1 = **71.0 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+VB = VA × (R_series / (R1 + R_series))
+
+VB = 9.0 × (1209.1 / (71.0 + 1209.1))
+
+VB = 9.0 × (1209.1 / 1280.1)
+
+VB = 9.0 × 0.944566
+
+VB = **8.5011 volts**
+
+---
+
+R_parallel = 71.0000
+VB = 8.5011"
+7,1,bare,41.9,3.2835,41.9,3.2836,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 41.9 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 3.3 \times \frac{8327.0}{41.9 + 8327.0}$$
+
+$$V_B = 3.3 \times \frac{8327.0}{8368.9}$$
+
+$$V_B = 3.3 \times 0.99499...$$
+
+$$V_B = 3.2836 \text{ V}$$
+
+---
+
+R_parallel = 41.9000
+VB = 3.2836"
+8,1,bare,797.6,0.5838,797.6,0.5836,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 797.6 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{32.3}{797.6 + 32.3}$$
+
+$$V_B = 15.0 \times \frac{32.3}{829.9}$$
+
+$$V_B = 15.0 \times 0.038906$$
+
+$$V_B = 0.583590 \text{ V}$$
+
+---
+
+R_parallel = 797.6000
+VB = 0.5836"
+9,1,bare,504.5,13.1101,504.5,13.1109,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 504.5 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{3499.7}{504.5 + 3499.7}$$
+
+$$V_B = 15.0 \times \frac{3499.7}{4004.2}$$
+
+$$V_B = 15.0 \times 0.874062$$
+
+$$V_B = 13.1109 \text{ volts}$$
+
+---
+
+R_parallel = 504.5000
+VB = 13.1109"
+10,1,bare,422.5,4.1432,422.5,4.1425,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+R_parallel = R1 = **422.5000 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+VB = VA × R_series / (R1 + R_series)
+
+VB = 12.0 × 222.8 / (422.5 + 222.8)
+
+VB = 12.0 × 222.8 / 645.3
+
+VB = 2673.6 / 645.3
+
+VB = **4.1425 volts**
+
+---
+
+R_parallel = 422.5000
+VB = 4.1425"
+11,1,bare,4986.9,0.0386,4986.9,0.0386,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 4986.9 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 3.3 \times \frac{59.0}{4986.9 + 59.0}$$
+
+$$V_B = 3.3 \times \frac{59.0}{5045.9}$$
+
+$$V_B = 3.3 \times 0.011691$$
+
+$$V_B = 0.0385803 \text{ V}$$
+
+---
+
+R_parallel = 4986.9000
+VB = 0.0386"
+12,1,bare,8834.4,1.4659,8834.4,1.4652,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 8834.4 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 12.0 \times \frac{1229.4}{8834.4 + 1229.4}$$
+
+$$V_B = 12.0 \times \frac{1229.4}{10063.8}$$
+
+$$V_B = 12.0 \times 0.122099$$
+
+$$V_B = 1.4651908 \text{ V}$$
+
+---
+
+R_parallel = 8834.4000
+VB = 1.4652"
+13,1,bare,161.5,21.2505,161.5,21.2514,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 161.5 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 24.0 \times \frac{1248.2}{161.5 + 1248.2}$$
+
+$$V_B = 24.0 \times \frac{1248.2}{1409.7}$$
+
+$$V_B = 24.0 \times 0.885476$$
+
+$$V_B = 21.2514 \text{ volts}$$
+
+---
+
+R_parallel = 161.5000
+VB = 21.2514"
+14,1,bare,4235.0,2.4231,4235.0,2.4234,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 4235.0 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 24.0 \times \frac{475.6}{4235.0 + 475.6}$$
+
+$$V_B = 24.0 \times \frac{475.6}{4710.6}$$
+
+$$V_B = 24.0 \times 0.100977$$
+
+$$V_B = 2.4234 \text{ volts}$$
+
+---
+
+R_parallel = 4235.0000
+VB = 2.4234"
+15,1,bare,2331.9,8.0094,2331.9,8.0087,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 2331.9 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 12.0 \times \frac{4680.2}{2331.9 + 4680.2}$$
+
+$$V_B = 12.0 \times \frac{4680.2}{7012.1}$$
+
+$$V_B = 12.0 \times 0.667396$$
+
+$$V_B = 8.0087 \text{ volts}$$
+
+---
+
+R_parallel = 2331.9000
+VB = 8.0087"
+16,1,bare,31.6,9.2738,31.6,9.2786,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+R_parallel = R1 = **31.6000 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+VB = VA × R_series / (R1 + R_series)
+
+VB = 24.0 × 19.9 / (31.6 + 19.9)
+
+VB = 24.0 × 19.9 / 51.5
+
+VB = 477.6 / 51.5
+
+VB = **9.2786 volts**
+
+R_parallel = 31.6000
+VB = 9.2786"
+17,1,bare,594.0,3.7428,594.0,3.7407,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 594.0 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 9.0 \times \frac{422.9}{594.0 + 422.9}$$
+
+$$V_B = 9.0 \times \frac{422.9}{1016.9}$$
+
+$$V_B = 9.0 \times 0.415629$$
+
+$$V_B = 3.7406611 \text{ V}$$
+
+---
+
+R_parallel = 594.0000
+VB = 3.7407"
+18,1,bare,814.5,1.0768,814.5,1.0764,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 814.5 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 3.3 \times \frac{394.5}{814.5 + 394.5}$$
+
+$$V_B = 3.3 \times \frac{394.5}{1209.0}$$
+
+$$V_B = 3.3 \times 0.326190$$
+
+$$V_B = 1.0764 \text{ volts}$$
+
+---
+
+R_parallel = 814.5000
+VB = 1.0764"
+19,1,bare,218.1,5.451,218.1,5.4487,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+**R_parallel = R1 = 218.1 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+$$V_B = V_A \times \frac{R_{series}}{R1 + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{124.5}{218.1 + 124.5}$$
+
+$$V_B = 15.0 \times \frac{124.5}{342.6}$$
+
+$$V_B = 15.0 \times 0.363247$$
+
+$$V_B = 5.4487 \text{ volts}$$
+
+---
+
+R_parallel = 218.1000
+VB = 5.4487"
+20,1,bare,238.6,4.8223,238.6,4.8228,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+Since there is only one resistor (R1) in the path from VA to node B, the equivalent resistance is simply:
+
+R_parallel = R1 = **238.6000 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R1 and R_series in series. Using the voltage divider formula:
+
+VB = VA × R_series / (R1 + R_series)
+
+VB = 12.0 × 160.3 / (238.6 + 160.3)
+
+VB = 12.0 × 160.3 / 398.9
+
+VB = 1923.6 / 398.9
+
+VB = **4.8228 volts**
+
+---
+
+R_parallel = 238.6000
+VB = 4.8228"
+21,2,bare,272.9611,2.4297,273.2845,2.4295,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{1144.0 \times 358.5}{1144.0 + 358.5}$$
+
+$$R_{parallel} = \frac{410,424.0}{1502.5}$$
+
+$$R_{parallel} = 273.2845 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 273.2845 + 762.0 = 1035.2845 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{3.3}{1035.2845} = 0.003187 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel} = 3.3 - 0.003187 \times 273.2845$$
+
+$$V_B = 3.3 - 0.8705 = 2.4295 \text{ V}$$
+
+Alternatively, using voltage divider directly:
+$$V_B = VA \times \frac{R_{series}}{R_{parallel} + R_{series}} = 3.3 \times \frac{762.0}{1035.2845} = 2.4295 \text{ V}$$
+
+R_parallel = 273.2845
+VB = 2.4295"
+22,2,bare,9.5359,2.096,9.5326,2.0973,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{11.9 \times 48.0}{11.9 + 48.0}$$
+
+$$R_{parallel} = \frac{571.2}{59.9}$$
+
+$$R_{parallel} = 9.5326 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 9.5326 + 16.6 = 26.1326 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{3.3}{26.1326} = 0.1262 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 3.3 - 0.1262 \times 9.5326$$
+
+$$V_B = 3.3 - 1.2027$$
+
+$$V_B = 2.0973 \text{ volts}$$
+
+---
+
+R_parallel = 9.5326
+VB = 2.0973"
+23,2,bare,274.8582,10.9078,274.8696,10.9073,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{485.8 \times 633.0}{485.8 + 633.0}$$
+
+$$R_{parallel} = \frac{307,523.4}{1,118.8}$$
+
+$$R_{parallel} = 274.8696 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 274.8696 + 2744.9 = 3019.7696 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{VA}{R_{total}} = \frac{12.0}{3019.7696} = 0.003975 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I_{total} \times R_{parallel}$$
+
+$$V_B = 12.0 - 0.003975 \times 274.8696$$
+
+$$V_B = 12.0 - 1.0927$$
+
+$$V_B = 10.9073 \text{ volts}$$
+
+---
+
+R_parallel = 274.8696
+VB = 10.9073"
+24,2,bare,46.4567,14.58,46.4379,14.5805,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{8917.5 \times 46.7}{8917.5 + 46.7}$$
+
+$$R_{parallel} = \frac{416,487.25}{8964.2}$$
+
+$$R_{parallel} = 46.4379 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA connected to a series combination of R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 46.4379 + 1612.8 = 1659.2379 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{VA}{R_{total}} = \frac{15.0}{1659.2379} = 0.009036 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = VA - I \times R_{parallel} = 15.0 - 0.009036 \times 46.4379$$
+
+$$V_B = 15.0 - 0.4195 = 14.5805 \text{ V}$$
+
+---
+
+R_parallel = 46.4379
+VB = 14.5805"
+25,2,bare,9.1584,11.8072,9.1584,11.8073,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{21.6 \times 15.9}{21.6 + 15.9}$$
+
+$$R_{parallel} = \frac{343.44}{37.5}$$
+
+$$R_{parallel} = 9.1584 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 9.1584 + 560.9 = 570.0584 \text{ ohms}$$
+
+The total current from VA to GND is:
+$$I = \frac{VA}{R_{total}} = \frac{12.0}{570.0584} = 0.021052 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 12.0 - 0.021052 \times 9.1584$$
+
+$$V_B = 12.0 - 0.1927$$
+
+$$V_B = 11.8073 \text{ volts}$$
+
+R_parallel = 9.1584
+VB = 11.8073"
+26,2,bare,35.204,4.1409,35.1968,4.1428,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{1592.1 \times 36.0}{1592.1 + 36.0}$$
+
+$$R_{parallel} = \frac{57315.6}{1628.1}$$
+
+$$R_{parallel} = 35.1968 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 35.1968 + 30.0 = 65.1968 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I_{total} = \frac{VA}{R_{total}} = \frac{9.0}{65.1968} = 0.1380 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I_{total} \times R_{parallel}$$
+
+$$V_B = 9.0 - 0.1380 \times 35.1968$$
+
+$$V_B = 9.0 - 4.8572$$
+
+$$V_B = 4.1428 \text{ volts}$$
+
+R_parallel = 35.1968
+VB = 4.1428"
+27,2,bare,9.8665,8.9659,9.8665,8.9659,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{739.1 \times 10.0}{739.1 + 10.0}$$
+
+$$R_{parallel} = \frac{7391.0}{749.1}$$
+
+$$R_{parallel} = 9.8665 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA connected to a series combination of R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 9.8665 + 2594.0 = 2603.8665 \text{ ohms}$$
+
+Current from VA to GND:
+$$I = \frac{VA}{R_{total}} = \frac{9.0}{2603.8665} = 0.003456 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 9.0 - 0.003456 \times 9.8665$$
+
+$$V_B = 9.0 - 0.0341$$
+
+$$V_B = 8.9659 \text{ volts}$$
+
+R_parallel = 9.8665
+VB = 8.9659"
+28,2,bare,127.9825,11.06,127.9968,11.0603,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{130.8 \times 5941.5}{130.8 + 5941.5}$$
+
+$$R_{parallel} = \frac{777,411.72}{6072.3}$$
+
+$$R_{parallel} = 127.9968 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 127.9968 + 1505.9 = 1633.8968 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{VA}{R_{total}} = \frac{12.0}{1633.8968} = 0.007343 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I_{total} \times R_{parallel}$$
+
+$$V_B = 12.0 - 0.007343 \times 127.9968$$
+
+$$V_B = 12.0 - 0.9397 = 11.0603 \text{ V}$$
+
+R_parallel = 127.9968
+VB = 11.0603"
+29,2,bare,428.5258,11.9673,428.6849,11.9551,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{555.4 \times 1875.9}{555.4 + 1875.9}$$
+
+$$R_{parallel} = \frac{1,042,625.86}{2,431.3}$$
+
+$$R_{parallel} = 428.6849 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 428.6849 + 426.2 = 854.8849 \text{ ohms}$$
+
+The current flowing through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{24.0}{854.8849} = 0.028074 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel} = 24.0 - 0.028074 \times 428.6849$$
+
+$$V_B = 24.0 - 12.0449 = 11.9551 \text{ V}$$
+
+---
+
+R_parallel = 428.6849
+VB = 11.9551"
+30,2,bare,13.4687,20.0225,13.4779,20.0076,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{15.4 \times 107.4}{15.4 + 107.4}$$
+
+$$R_{parallel} = \frac{1653.96}{122.8}$$
+
+$$R_{parallel} = 13.4779 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 13.4779 + 67.8 = 81.2779 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{24.0}{81.2779} = 0.2951 \text{ A}$$
+
+The voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.2951 \times 67.8 = 20.0076 \text{ V}$$
+
+R_parallel = 13.4779
+VB = 20.0076"
+31,2,bare,10.2457,3.0102,10.2418,3.0122,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{10.3 \times 1942.1}{10.3 + 1942.1}$$
+
+$$R_{parallel} = \frac{20003.63}{1952.4}$$
+
+$$R_{parallel} = 10.2418 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 10.2418 + 15.5 = 25.7418 \text{ ohms}$$
+
+The current flowing through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{5.0}{25.7418} = 0.1941 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel} = 5.0 - 0.1941 \times 10.2418$$
+
+$$V_B = 5.0 - 1.9878 = 3.0122 \text{ V}$$
+
+R_parallel = 10.2418
+VB = 3.0122"
+32,2,bare,29.2981,9.9258,29.2968,9.9253,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{325.1 \times 32.2}{325.1 + 32.2}$$
+
+$$R_{parallel} = \frac{10468.22}{357.3}$$
+
+$$R_{parallel} = 29.2968 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 29.2968 + 140.2 = 169.4968 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{12.0}{169.4968} = 0.070787 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 12.0 - 0.070787 \times 29.2968$$
+
+$$V_B = 12.0 - 2.0747$$
+
+$$V_B = 9.9253 \text{ volts}$$
+
+---
+
+R_parallel = 29.2968
+VB = 9.9253"
+33,2,bare,107.3169,4.0132,107.2595,4.0173,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{373.4 \times 150.6}{373.4 + 150.6}$$
+
+$$R_{parallel} = \frac{56,218.04}{524.0}$$
+
+$$R_{parallel} = 107.2595 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 107.2595 + 39.2 = 146.4595 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{VA}{R_{total}} = \frac{15.0}{146.4595} = 0.1024 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I_{total} \times R_{parallel}$$
+
+$$V_B = 15.0 - 0.1024 \times 107.2595$$
+
+$$V_B = 15.0 - 10.9827$$
+
+$$V_B = 4.0173 \text{ volts}$$
+
+R_parallel = 107.2595
+VB = 4.0173"
+34,2,bare,10.6868,14.9576,10.6866,14.958,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{23.5 \times 19.6}{23.5 + 19.6}$$
+
+$$R_{parallel} = \frac{460.6}{43.1} = 10.6866 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA connected to a series combination of R_parallel and R_series to GND.
+
+Using voltage divider:
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{3767.7}{10.6866 + 3767.7}$$
+
+$$V_B = 15.0 \times \frac{3767.7}{3778.3866}$$
+
+$$V_B = 15.0 \times 0.9972 = 14.9580 \text{ volts}$$
+
+R_parallel = 10.6866
+VB = 14.9580"
+35,2,bare,19.3698,4.9866,19.3507,4.9866,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{74.3 \times 26.2}{74.3 + 26.2}$$
+
+$$R_{parallel} = \frac{1944.66}{100.5}$$
+
+$$R_{parallel} = 19.3507 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now a voltage divider: VA with R_parallel in series with R_series to GND.
+
+Using the voltage divider formula:
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{7196.9}{19.3507 + 7196.9}$$
+
+$$V_B = 5.0 \times \frac{7196.9}{7216.2507}$$
+
+$$V_B = 5.0 \times 0.99733$$
+
+$$V_B = 4.9866 \text{ volts}$$
+
+R_parallel = 19.3507
+VB = 4.9866"
+36,2,bare,997.7834,8.6964,998.1769,8.6962,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{1251.8 \times 4917.1}{1251.8 + 4917.1}$$
+
+$$R_{parallel} = \frac{6,157,897.78}{6,168.9}$$
+
+$$R_{parallel} = 998.1769 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 998.1769 + 567.0 = 1565.1769 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{VA}{R_{total}} = \frac{24.0}{1565.1769} = 0.015337 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.015337 \times 567.0 = 8.6962 \text{ V}$$
+
+---
+
+R_parallel = 998.1769
+VB = 8.6962"
+37,2,bare,15.4413,4.523,15.4383,4.5209,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{43.3 \times 24.0}{43.3 + 24.0}$$
+
+$$R_{parallel} = \frac{1039.2}{67.3}$$
+
+$$R_{parallel} = 15.4383 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 15.4383 + 15.6 = 31.0383 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{9.0}{31.0383} = 0.2898 \text{ A}$$
+
+The voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.2898 \times 15.6 = 4.5209 \text{ volts}$$
+
+---
+
+R_parallel = 15.4383
+VB = 4.5209"
+38,2,bare,78.654,3.6516,78.6449,3.6521,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{84.4 \times 1155.3}{84.4 + 1155.3}$$
+
+$$R_{parallel} = \frac{97517.32}{1239.7}$$
+
+$$R_{parallel} = 78.6449 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 78.6449 + 53.7 = 132.3449 \text{ ohms}$$
+
+The total current from VA is:
+$$I = \frac{VA}{R_{total}} = \frac{9.0}{132.3449} = 0.0680 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 9.0 - 0.0680 \times 78.6449$$
+
+$$V_B = 9.0 - 5.3479$$
+
+$$V_B = 3.6521 \text{ volts}$$
+
+---
+
+R_parallel = 78.6449
+VB = 3.6521"
+39,2,bare,61.2468,2.6302,61.2628,2.6307,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{142.7 \times 107.3}{142.7 + 107.3}$$
+
+$$R_{parallel} = \frac{15,315.71}{250.0}$$
+
+$$R_{parallel} = 61.2628 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 61.2628 + 240.5 = 301.7628 \text{ ohms}$$
+
+The total current from VA through the circuit:
+$$I = \frac{VA}{R_{total}} = \frac{3.3}{301.7628} = 0.010938 \text{ A}$$
+
+The voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.010938 \times 240.5 = 2.6307 \text{ V}$$
+
+---
+
+R_parallel = 61.2628
+VB = 2.6307"
+40,2,bare,5.8009,11.8723,5.8026,11.8723,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+R1 and R2 are in parallel between VA and node B.
+
+For parallel resistors:
+$$R_{parallel} = \frac{R1 \times R2}{R1 + R2}$$
+
+$$R_{parallel} = \frac{10.9 \times 12.4}{10.9 + 12.4}$$
+
+$$R_{parallel} = \frac{135.16}{23.3}$$
+
+$$R_{parallel} = 5.8026 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 5.8026 + 539.3 = 545.1026 \text{ ohms}$$
+
+The total current from VA to GND is:
+$$I = \frac{VA}{R_{total}} = \frac{12.0}{545.1026} = 0.022008 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = VA - I \times R_{parallel}$$
+
+$$V_B = 12.0 - 0.022008 \times 5.8026$$
+
+$$V_B = 12.0 - 0.1277$$
+
+$$V_B = 11.8723 \text{ volts}$$
+
+R_parallel = 5.8026
+VB = 11.8723"
+41,3,bare,58.7776,2.901,58.7769,2.8998,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{5773.3} + \frac{1}{60.8} + \frac{1}{2546.4}$$
+
+$$\frac{1}{R_{parallel}} = 0.0001732 + 0.0164474 + 0.0003927 = 0.0170133$$
+
+$$R_{parallel} = \frac{1}{0.0170133} = 58.7769 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 58.7769 + 427.4 = 486.1769 \text{ ohms}$$
+
+The total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{486.1769} = 0.006784 \text{ A}$$
+
+The voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.006784 \times 427.4 = 2.8998 \text{ V}$$
+
+R_parallel = 58.7769
+VB = 2.8998"
+42,3,bare,26.1703,4.9229,26.1707,4.9246,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{729.1} + \frac{1}{664.9} + \frac{1}{28.3}$$
+
+$$\frac{1}{R_{parallel}} = 0.001371626 + 0.001503759 + 0.035335689$$
+
+$$\frac{1}{R_{parallel}} = 0.038211074$$
+
+$$R_{parallel} = \frac{1}{0.038211074} = 26.1707 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 26.1707 + 31.6 = 57.7707 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{9.0}{57.7707} = 0.155733 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 9.0 - 0.155733 \times 26.1707$$
+
+$$V_B = 9.0 - 4.0754 = 4.9246 \text{ V}$$
+
+R_parallel = 26.1707
+VB = 4.9246"
+43,3,bare,115.3332,2.6166,115.3347,2.6169,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{2401.6} + \frac{1}{126.4} + \frac{1}{2917.6}$$
+
+$$\frac{1}{R_{parallel}} = 0.0004163 + 0.0079114 + 0.0003429 = 0.0086706$$
+
+$$R_{parallel} = \frac{1}{0.0086706} = 115.3347 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 115.3347 + 441.6 = 556.9347 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{3.3}{556.9347} = 0.005924 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 3.3 - 0.005924 \times 115.3347$$
+
+$$V_B = 3.3 - 0.6831 = 2.6169 \text{ V}$$
+
+R_parallel = 115.3347
+VB = 2.6169"
+44,3,bare,9.3543,14.7756,9.3551,14.7756,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{76.5} + \frac{1}{10.9} + \frac{1}{479.1}$$
+
+$$\frac{1}{R_{parallel}} = 0.013072 + 0.091743 + 0.002086 = 0.106901$$
+
+$$R_{parallel} = \frac{1}{0.106901} = 9.3551 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 9.3551 + 615.9 = 625.2551 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{15.0}{625.2551} = 0.023985 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 15.0 - 0.023985 \times 9.3551$$
+
+$$V_B = 15.0 - 0.2244 = 14.7756 \text{ V}$$
+
+---
+
+R_parallel = 9.3551
+VB = 14.7756"
+45,3,bare,20.2174,23.6481,20.2177,23.6481,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The three resistors R1, R2, and R3 are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{147.5} + \frac{1}{34.8} + \frac{1}{71.7}$$
+
+$$\frac{1}{R_{parallel}} = 0.006779661 + 0.028735632 + 0.013945578$$
+
+$$\frac{1}{R_{parallel}} = 0.049460871$$
+
+$$R_{parallel} = \frac{1}{0.049460871} = 20.2177 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now a voltage divider: VA with R_parallel in series with R_series.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 20.2177 + 1358.5 = 1378.7177 \text{ ohms}$$
+
+Current through the circuit:
+$$I = \frac{V_A}{R_{total}} = \frac{24.0}{1378.7177} = 0.017408 \text{ A}$$
+
+Voltage at node B (voltage across R_series):
+$$V_B = V_A - I \times R_{parallel} = 24.0 - 0.017408 \times 20.2177$$
+
+$$V_B = 24.0 - 0.3519 = 23.6481 \text{ volts}$$
+
+R_parallel = 20.2177
+VB = 23.6481"
+46,3,bare,17.1798,4.7724,17.1809,4.7724,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{4751.6} + \frac{1}{20.8} + \frac{1}{100.8}$$
+
+$$\frac{1}{R_{parallel}} = 0.0002104 + 0.0480769 + 0.0099206 = 0.0582079$$
+
+$$R_{parallel} = \frac{1}{0.0582079} = 17.1809 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 17.1809 + 360.3 = 377.4809 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{5.0}{377.4809} = 0.013247 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 5.0 - 0.013247 \times 17.1809$$
+
+$$V_B = 5.0 - 0.2276 = 4.7724 \text{ V}$$
+
+R_parallel = 17.1809
+VB = 4.7724"
+47,3,bare,323.3572,22.4005,915.2869,19.9547,0,0,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{6241.6} + \frac{1}{1361.4} + \frac{1}{455.0}$$
+
+$$\frac{1}{R_{parallel}} = 0.0001601 + 0.0007347 + 0.0021978 = 0.0010926$$
+
+$$R_{parallel} = \frac{1}{0.0010926} = 915.2869 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 915.2869 + 4528.4 = 5443.6869 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{24.0}{5443.6869} = 0.004408 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A \times \frac{R_{series}}{R_{total}} = 24.0 \times \frac{4528.4}{5443.6869} = 19.9547 \text{ V}$$
+
+Or equivalently: $V_B = I_{total} \times R_{series} = 0.004408 \times 4528.4 = 19.9547$ V
+
+R_parallel = 915.2869
+VB = 19.9547"
+48,3,bare,40.8679,8.589,40.8689,8.5893,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{1095.6} + \frac{1}{42.7} + \frac{1}{7292.5}$$
+
+$$\frac{1}{R_{parallel}} = 0.0009127 + 0.0234192 + 0.0001371 = 0.0244690$$
+
+$$R_{parallel} = \frac{1}{0.0244690} = 40.8689 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit forms a voltage divider with R_parallel and R_series in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 9.0 \times \frac{854.0}{40.8689 + 854.0}$$
+
+$$V_B = 9.0 \times \frac{854.0}{894.8689} = 9.0 \times 0.95437 = 8.5893 \text{ volts}$$
+
+R_parallel = 40.8689
+VB = 8.5893"
+49,3,bare,25.7714,4.9677,25.7717,4.968,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{1918.5} + \frac{1}{26.3} + \frac{1}{3866.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.0005212 + 0.0380228 + 0.0002586 = 0.0388026$$
+
+$$R_{parallel} = \frac{1}{0.0388026} = 25.7717 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R_parallel and R_series in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{3962.9}{25.7717 + 3962.9}$$
+
+$$V_B = 5.0 \times \frac{3962.9}{3988.6717} = 5.0 \times 0.9936 = 4.9680 \text{ volts}$$
+
+R_parallel = 25.7717
+VB = 4.9680"
+50,3,bare,40.9417,8.6222,40.9397,8.6229,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{1473.2} + \frac{1}{42.5} + \frac{1}{4613.8}$$
+
+$$\frac{1}{R_{parallel}} = 0.0006791 + 0.0235294 + 0.0002167 = 0.0244252$$
+
+$$R_{parallel} = \frac{1}{0.0244252} = 40.9397 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit forms a voltage divider with R_parallel and R_series in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 9.0 \times \frac{934.5}{40.9397 + 934.5}$$
+
+$$V_B = 9.0 \times \frac{934.5}{975.4397} = 9.0 \times 0.9581 = 8.6229 \text{ volts}$$
+
+R_parallel = 40.9397
+VB = 8.6229"
+51,3,bare,487.76,3.1077,952.1503,2.9446,0,0,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{2824.7} + \frac{1}{1571.9} + \frac{1}{943.4}$$
+
+$$\frac{1}{R_{parallel}} = 0.0003540 + 0.0006362 + 0.0010600 = 0.0010502$$
+
+$$R_{parallel} = \frac{1}{0.0010502} = 952.1503 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The circuit from VA to GND forms a voltage divider with R_parallel and R_series in series.
+
+Total resistance: $R_{total} = R_{parallel} + R_{series} = 952.1503 + 7883.0 = 8835.1503$ ohms
+
+Current: $I = \frac{V_A}{R_{total}} = \frac{3.3}{8835.1503} = 0.0003733$ A
+
+Voltage at node B (voltage across R_series):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.0003733 \times 952.1503 = 3.3 - 0.3554 = 2.9446 \text{ V}$$
+
+R_parallel = 952.1503
+VB = 2.9446"
+52,3,bare,37.8579,8.5898,37.8688,8.5897,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{332.6} + \frac{1}{4852.1} + \frac{1}{43.1}$$
+
+$$\frac{1}{R_{parallel}} = 0.003007 + 0.000206 + 0.023195 = 0.026408$$
+
+$$R_{parallel} = \frac{1}{0.026408} = 37.8688 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 37.8688 + 792.7 = 830.5688 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{9.0}{830.5688} = 0.010835 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 9.0 - 0.010835 \times 37.8688$$
+
+$$V_B = 9.0 - 0.4103 = 8.5897 \text{ V}$$
+
+R_parallel = 37.8688
+VB = 8.5897"
+53,3,bare,15.6839,3.2683,15.6835,3.2679,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use the formula:
+
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{23.0} + \frac{1}{63.4} + \frac{1}{221.8}$$
+
+$$\frac{1}{R_{parallel}} = 0.043478 + 0.015776 + 0.004509 = 0.063763$$
+
+$$R_{parallel} = \frac{1}{0.063763} = 15.6835 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 15.6835 + 29.6 = 45.2835 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{5.0}{45.2835} = 0.110408 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 5.0 - 0.110408 \times 15.6835$$
+
+$$V_B = 5.0 - 1.7321 = 3.2679 \text{ V}$$
+
+R_parallel = 15.6835
+VB = 3.2679"
+54,3,bare,315.7802,0.4441,315.8089,0.4452,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{7395.5} + \frac{1}{5577.6} + \frac{1}{350.6}$$
+
+$$\frac{1}{R_{parallel}} = 0.0001352 + 0.0001793 + 0.0028520 = 0.0031665$$
+
+$$R_{parallel} = \frac{1}{0.0031665} = 315.8089 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 315.8089 + 49.1 = 364.9089 \text{ ohms}$$
+
+The total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{364.9089} = 0.009037 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.009037 \times 315.8089$$$$V_B = 3.3 - 2.8548 = 0.4452 \text{ V}$$
+
+R_parallel = 315.8089
+VB = 0.4452"
+55,3,bare,14.5901,2.7484,14.5879,2.7488,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+Calculating each reciprocal:
+- $\frac{1}{R_1} = \frac{1}{151.2} = 0.006613852...$
+- $\frac{1}{R_2} = \frac{1}{16.2} = 0.061728395...$
+- $\frac{1}{R_3} = \frac{1}{5059.4} = 0.000197651...$
+
+Sum of reciprocals:
+$$\frac{1}{R_{parallel}} = 0.006613852 + 0.061728395 + 0.000197651 = 0.068539898$$
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.068539898} = 14.5879 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 14.5879 + 72.7 = 87.2879 \text{ ohms}$$
+
+The current from VA to GND:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{87.2879} = 0.037806 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.037806 \times 14.5879 = 3.3 - 0.5512 = 2.7488 \text{ V}$$
+
+R_parallel = 14.5879
+VB = 2.7488"
+56,3,bare,15.3411,17.5678,15.3416,17.5662,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{254.7} + \frac{1}{1533.0} + \frac{1}{16.5}$$
+
+$$\frac{1}{R_{parallel}} = 0.003926 + 0.000652 + 0.060606 = 0.065184$$
+
+$$R_{parallel} = \frac{1}{0.065184} = 15.3416 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 15.3416 + 41.9 = 57.2416 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{24.0}{57.2416} = 0.4193 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 24.0 - 0.4193 \times 15.3416$$
+
+$$V_B = 24.0 - 6.4338 = 17.5662 \text{ V}$$
+
+R_parallel = 15.3416
+VB = 17.5662"
+57,3,bare,83.2238,9.0186,83.2267,9.0192,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{114.3} + \frac{1}{2031.7} + \frac{1}{360.4}$$
+
+$$\frac{1}{R_{parallel}} = 0.008748 + 0.000492 + 0.002775 = 0.012015$$
+
+$$R_{parallel} = \frac{1}{0.012015} = 83.2267 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 83.2267 + 50.1 = 133.3267 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{24.0}{133.3267} = 0.1800 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 24.0 - 0.1800 \times 83.2267$$
+
+$$V_B = 24.0 - 14.9808 = 9.0192 \text{ V}$$
+
+R_parallel = 83.2267
+VB = 9.0192"
+58,3,bare,12.0002,8.8775,12.0,8.8776,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+Calculating each reciprocal:
+- $\frac{1}{R_1} = \frac{1}{3779.2} = 0.0002646165$ S
+- $\frac{1}{R_2} = \frac{1}{12.7} = 0.0787401575$ S
+- $\frac{1}{R_3} = \frac{1}{231.1} = 0.0043289221$ S
+
+Sum of reciprocals:
+$$\frac{1}{R_{parallel}} = 0.0002646165 + 0.0787401575 + 0.0043289221 = 0.0833336961 \text{ S}$$
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.0833336961} = 12.0000 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with $R_{parallel}$ and $R_{series}$ in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{17.4}{12.0000 + 17.4}$$
+
+$$V_B = 15.0 \times \frac{17.4}{29.4} = 15.0 \times 0.5918367347$$
+
+$$V_B = 8.8775510204 \text{ V}$$
+
+---
+
+R_parallel = 12.0000
+VB = 8.8776"
+59,3,bare,179.8802,1.7003,179.8561,1.7007,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{453.3} + \frac{1}{8785.9} + \frac{1}{308.7}$$
+
+$$\frac{1}{R_{parallel}} = 0.002206 + 0.000114 + 0.003240 = 0.005560$$
+
+$$R_{parallel} = \frac{1}{0.005560} = 179.8561 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 179.8561 + 41.9 = 221.7561 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{9.0}{221.7561} = 0.040596 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 9.0 - 0.040596 \times 179.8561$$
+
+$$V_B = 9.0 - 7.2993 = 1.7007 \text{ V}$$
+
+R_parallel = 179.8561
+VB = 1.7007"
+60,3,bare,177.9002,2.8134,177.8862,2.8191,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For three resistors in parallel, I'll use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{287.9} + \frac{1}{527.8} + \frac{1}{3951.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.003475 + 0.001894 + 0.000253 = 0.005622$$
+
+$$R_{parallel} = \frac{1}{0.005622} = 177.8862 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 177.8862 + 80.9 = 258.7862 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{9.0}{258.7862} = 0.034761 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 9.0 - 0.034761 \times 177.8862$$
+
+$$V_B = 9.0 - 6.1809 = 2.8191 \text{ V}$$
+
+---
+
+R_parallel = 177.8862
+VB = 2.8191"
+61,4,bare,73.0638,18.0832,73.0639,18.0843,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{114.4} + \frac{1}{362.3} + \frac{1}{643.9} + \frac{1}{1581.7}$$
+
+$$\frac{1}{R_{parallel}} = 0.008741721 + 0.002759641 + 0.001552569 + 0.000632356$$
+
+$$\frac{1}{R_{parallel}} = 0.013686287$$
+
+$$R_{parallel} = \frac{1}{0.013686287} = 73.0639 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 73.0639 + 223.3 = 296.3639 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{24.0}{296.3639} = 0.080976 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = V_A - I \times R_{parallel} = 24.0 - 0.080976 \times 73.0639$$
+
+$$V_B = 24.0 - 5.9157 = 18.0843 \text{ V}$$
+
+R_parallel = 73.0639
+VB = 18.0843"
+62,4,bare,24.7013,11.9567,24.7003,11.9567,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{298.4} + \frac{1}{848.6} + \frac{1}{28.0} + \frac{1}{4170.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.003353 + 0.001178 + 0.035714 + 0.000240 = 0.040485$$
+
+$$R_{parallel} = \frac{1}{0.040485} = 24.7003 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 24.7003 + 6822.7 = 6847.4003 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{12.0}{6847.4003} = 0.001752 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 12.0 - 0.001752 \times 24.7003$$
+
+$$V_B = 12.0 - 0.0433 = 11.9567 \text{ V}$$
+
+R_parallel = 24.7003
+VB = 11.9567"
+63,4,bare,129.7653,9.8583,129.7449,9.8607,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{2608.4} + \frac{1}{3084.2} + \frac{1}{2288.7} + \frac{1}{152.4}$$
+
+$$\frac{1}{R_{parallel}} = 0.0003835 + 0.0003242 + 0.0004369 + 0.0065630$$
+
+$$\frac{1}{R_{parallel}} = 0.0077076$$
+
+$$R_{parallel} = \frac{1}{0.0077076} = 129.7449 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 129.7449 + 597.3 = 727.0449 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{12.0}{727.0449} = 0.0165009 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 12.0 - 0.0165009 \times 129.7449$$
+
+$$V_B = 12.0 - 2.1393 = 9.8607 \text{ V}$$
+
+R_parallel = 129.7449
+VB = 9.8607"
+64,4,bare,71.3613,14.8063,71.3577,14.8084,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{351.9} + \frac{1}{1663.5} + \frac{1}{198.8} + \frac{1}{180.5}$$
+
+$$\frac{1}{R_{parallel}} = 0.002843 + 0.000601 + 0.005030 + 0.005540 = 0.014014$$
+
+$$R_{parallel} = \frac{1}{0.014014} = 71.3577 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 71.3577 + 5453.8 = 5525.1577 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{15.0}{5525.1577} = 0.002715 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.002715 \times 5453.8 = 14.8084 \text{ V}$$
+
+R_parallel = 71.3577
+VB = 14.8084"
+65,4,bare,7.1602,14.9095,7.1599,14.9085,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{82.6} + \frac{1}{9.3} + \frac{1}{169.4} + \frac{1}{70.8}$$
+
+$$\frac{1}{R_{parallel}} = 0.012110 + 0.107527 + 0.005902 + 0.014124 = 0.139663$$
+
+$$R_{parallel} = \frac{1}{0.139663} = 7.1599 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit forms a voltage divider with R_parallel and R_series in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{1180.1}{7.1599 + 1180.1}$$
+
+$$V_B = 15.0 \times \frac{1180.1}{1187.2599}$$
+
+$$V_B = 15.0 \times 0.9939 = 14.9085 \text{ volts}$$
+
+---
+
+R_parallel = 7.1599
+VB = 14.9085"
+66,4,bare,8.3629,8.9813,8.2938,8.9816,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/6880.5 = 0.00014535 S
+- 1/R2 = 1/11.5 = 0.08695652 S
+- 1/R3 = 1/30.9 = 0.03236246 S
+- 1/R4 = 1/9001.1 = 0.00011109 S
+
+Sum: 1/R_parallel = 0.12057542 S
+
+$$R_{parallel} = \frac{1}{0.12057542} = 8.2938 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is a voltage divider: VA with R_parallel in series with R_series.
+
+Using the voltage divider formula:
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 9.0 \times \frac{4027.2}{8.2938 + 4027.2}$$
+
+$$V_B = 9.0 \times \frac{4027.2}{4035.4938}$$
+
+$$V_B = 9.0 \times 0.99796 = 8.9816 \text{ volts}$$
+
+R_parallel = 8.2938
+VB = 8.9816"
+67,4,bare,8.3886,11.6606,8.389,11.6609,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{275.8} + \frac{1}{236.9} + \frac{1}{22.6} + \frac{1}{14.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.003627 + 0.004221 + 0.044248 + 0.067114 = 0.119210$$
+
+$$R_{parallel} = \frac{1}{0.119210} = 8.3890 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 8.3890 + 288.2 = 296.5890 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{12.0}{296.5890} = 0.040461 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.040461 \times 288.2 = 11.6609 \text{ V}$$
+
+---
+
+R_parallel = 8.3890
+VB = 11.6609"
+68,4,bare,40.5003,8.9486,40.5002,8.9504,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{171.9} + \frac{1}{787.9} + \frac{1}{59.5} + \frac{1}{1253.3}$$
+
+$$\frac{1}{R_{parallel}} = 0.005817 + 0.001269 + 0.016807 + 0.000798 = 0.024691$$
+
+$$R_{parallel} = \frac{1}{0.024691} = 40.5002 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 40.5002 + 7047.6 = 7088.1002 \text{ ohms}$$
+
+Total current:
+$$I = \frac{V_A}{R_{total}} = \frac{9.0}{7088.1002} = 0.001270 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.001270 \times 7047.6 = 8.9504 \text{ V}$$
+
+---
+
+R_parallel = 40.5002
+VB = 8.9504"
+69,4,bare,23.0105,10.2333,23.0115,10.2302,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{3580.8} + \frac{1}{4790.1} + \frac{1}{402.5} + \frac{1}{24.7}$$
+
+$$\frac{1}{R_{parallel}} = 0.0002793 + 0.0002087 + 0.0024845 + 0.0404858$$
+
+$$\frac{1}{R_{parallel}} = 0.0434583$$
+
+$$R_{parallel} = \frac{1}{0.0434583} = 23.0115 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 23.0115 + 49.4 = 72.4115 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{15.0}{72.4115} = 0.207089 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.207089 \times 49.4 = 10.2302 \text{ V}$$
+
+---
+
+R_parallel = 23.0115
+VB = 10.2302"
+70,4,bare,10.0476,14.9317,10.0481,14.9349,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{482.3} + \frac{1}{50.7} + \frac{1}{17.7} + \frac{1}{47.1}$$
+
+$$\frac{1}{R_{parallel}} = 0.002073 + 0.019723 + 0.056497 + 0.021229 = 0.099522$$
+
+$$R_{parallel} = \frac{1}{0.099522} = 10.0481 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 10.0481 + 2195.0 = 2205.0481 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{15.0}{2205.0481} = 0.006803 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.006803 \times 2195.0 = 14.9349 \text{ V}$$
+
+---
+
+R_parallel = 10.0481
+VB = 14.9349"
+71,4,bare,305.3964,19.685,305.2999,19.6839,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{661.5} + \frac{1}{684.4} + \frac{1}{7690.0} + \frac{1}{5829.4}$$
+
+$$\frac{1}{R_{parallel}} = 0.0015129 + 0.0014609 + 0.0001300 + 0.0001716$$
+
+$$\frac{1}{R_{parallel}} = 0.0032754$$
+
+$$R_{parallel} = \frac{1}{0.0032754} = 305.2999 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now a voltage divider: VA with R_parallel in series with R_series.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 305.2999 + 1393.2 = 1698.4999 \text{ ohms}$$
+
+Current through the circuit:
+$$I = \frac{V_A}{R_{total}} = \frac{24.0}{1698.4999} = 0.014126 \text{ A}$$
+
+Voltage at node B (voltage across R_series):
+$$V_B = V_A - I \times R_{parallel} = 24.0 - 0.014126 \times 305.2999$$
+
+$$V_B = 24.0 - 4.3161 = 19.6839 \text{ V}$$
+
+R_parallel = 305.2999
+VB = 19.6839"
+72,4,bare,10.3696,2.5715,10.3696,2.5717,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{59.4} + \frac{1}{105.8} + \frac{1}{14.3} + \frac{1}{4565.3}$$
+
+$$\frac{1}{R_{parallel}} = 0.016835 + 0.009452 + 0.069930 + 0.000219 = 0.096436$$
+
+$$R_{parallel} = \frac{1}{0.096436} = 10.3696 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 10.3696 + 36.6 = 46.9696 \text{ ohms}$$
+
+The current from VA to GND is:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{46.9696} = 0.070254 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.070254 \times 10.3696 = 3.3 - 0.7283 = 2.5717 \text{ V}$$
+
+R_parallel = 10.3696
+VB = 2.5717"
+73,4,bare,39.9826,9.0795,39.9828,9.0793,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{1396.2} + \frac{1}{6786.0} + \frac{1}{45.1} + \frac{1}{506.5}$$
+
+$$\frac{1}{R_{parallel}} = 0.0007161 + 0.0001474 + 0.0221729 + 0.0019744$$
+
+$$\frac{1}{R_{parallel}} = 0.0250108$$
+
+$$R_{parallel} = \frac{1}{0.0250108} = 39.9828 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 39.9828 + 124.3 = 164.2828 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{12.0}{164.2828} = 0.0730476 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 12.0 - 0.0730476 \times 39.9828$$
+
+$$V_B = 12.0 - 2.9207 = 9.0793 \text{ V}$$
+
+R_parallel = 39.9828
+VB = 9.0793"
+74,4,bare,7.5876,4.8412,7.5878,4.8412,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{139.4} + \frac{1}{46.7} + \frac{1}{9.7} + \frac{1}{8714.1}$$
+
+$$\frac{1}{R_{parallel}} = 0.007173 + 0.021408 + 0.103093 + 0.000115 = 0.131789$$
+
+$$R_{parallel} = \frac{1}{0.131789} = 7.5878 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 7.5878 + 231.3 = 238.8878 \text{ ohms}$$
+
+The current from VA through the circuit is:
+$$I = \frac{V_A}{R_{total}} = \frac{5.0}{238.8878} = 0.020927 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \cdot R_{parallel} = 5.0 - 0.020927 \times 7.5878 = 5.0 - 0.1588 = 4.8412 \text{ V}$$
+
+R_parallel = 7.5878
+VB = 4.8412"
+75,4,bare,11.3749,11.9177,11.3753,11.9178,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{50.5} + \frac{1}{123.9} + \frac{1}{17.1} + \frac{1}{640.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.019802 + 0.008070 + 0.058479 + 0.001560 = 0.087911$$
+
+$$R_{parallel} = \frac{1}{0.087911} = 11.3753 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 11.3753 + 1647.6 = 1658.9753 \text{ ohms}$$
+
+The total current from VA is:
+$$I = \frac{V_A}{R_{total}} = \frac{12.0}{1658.9753} = 0.007232 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 12.0 - 0.007232 \times 11.3753 = 12.0 - 0.0822 = 11.9178 \text{ V}$$
+
+R_parallel = 11.3753
+VB = 11.9178"
+76,4,bare,440.4906,2.6178,440.5319,2.6177,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{813.3} + \frac{1}{2543.0} + \frac{1}{2304.9} + \frac{1}{4682.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.001229554 + 0.000393087 + 0.000434016 + 0.000213656$$
+
+$$\frac{1}{R_{parallel}} = 0.002270313$$
+
+$$R_{parallel} = \frac{1}{0.002270313} = 440.5319 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The circuit from VA to GND consists of R_parallel in series with R_series.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 440.5319 + 1690.4 = 2130.9319 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{2130.9319} = 0.001548476 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.001548476 \times 1690.4 = 2.6177 \text{ volts}$$
+
+---
+
+R_parallel = 440.5319
+VB = 2.6177"
+77,4,bare,22.6446,23.6689,22.6457,23.6691,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{2796.7} + \frac{1}{75.7} + \frac{1}{1776.1} + \frac{1}{33.3}$$
+
+$$\frac{1}{R_{parallel}} = 0.0003576 + 0.0132103 + 0.0005633 + 0.0300300$$
+
+$$\frac{1}{R_{parallel}} = 0.0441612$$
+
+$$R_{parallel} = \frac{1}{0.0441612} = 22.6457 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 22.6457 + 1618.7 = 1641.3457 \text{ ohms}$$
+
+The total current from VA is:
+$$I = \frac{V_A}{R_{total}} = \frac{24.0}{1641.3457} = 0.014621 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 24.0 - 0.014621 \times 22.6457$$
+
+$$V_B = 24.0 - 0.3309 = 23.6691 \text{ V}$$
+
+R_parallel = 22.6457
+VB = 23.6691"
+78,4,bare,15.3653,8.9034,15.3704,8.901,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{230.5} + \frac{1}{32.8} + \frac{1}{416.6} + \frac{1}{35.9}$$
+
+$$\frac{1}{R_{parallel}} = 0.004338 + 0.030488 + 0.002401 + 0.027855 = 0.065082$$
+
+$$R_{parallel} = \frac{1}{0.065082} = 15.3704 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 15.3704 + 1416.8 = 1432.1704 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{9.0}{1432.1704} = 0.006285 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.006285 \times 1416.8 = 8.9010 \text{ V}$$
+
+---
+
+R_parallel = 15.3704
+VB = 8.9010"
+79,4,bare,51.0061,13.2792,51.0089,13.2968,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+$$\frac{1}{R_{parallel}} = \frac{1}{398.5} + \frac{1}{60.8} + \frac{1}{6563.7} + \frac{1}{2014.7}$$
+
+$$\frac{1}{R_{parallel}} = 0.0025094 + 0.0164474 + 0.0001523 + 0.0004964$$
+
+$$\frac{1}{R_{parallel}} = 0.0196055$$
+
+$$R_{parallel} = 51.0089 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 51.0089 + 393.6 = 444.6089 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{15.0}{444.6089} = 0.033747 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series from B to GND):
+$$V_B = I \times R_{series} = 0.033747 \times 393.6 = 13.2968 \text{ V}$$
+
+R_parallel = 51.0089
+VB = 13.2968"
+80,4,bare,5.923,14.988,5.9733,14.9883,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The four resistors (R1, R2, R3, R4) are connected in parallel from VA to node B.
+
+For parallel resistors, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/49.9 = 0.020040080...
+- 1/R2 = 1/20.2 = 0.049504950...
+- 1/R3 = 1/10.1 = 0.099009900...
+- 1/R4 = 1/3594.9 = 0.000278036...
+
+Sum: 1/R_parallel = 0.168832966...
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.168832966} = 5.9733 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit forms a voltage divider with R_parallel and R_series in series:
+
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 15.0 \times \frac{7424.8}{5.9733 + 7424.8}$$
+
+$$V_B = 15.0 \times \frac{7424.8}{7430.7733}$$
+
+$$V_B = 15.0 \times 0.999221...$$
+
+$$V_B = 14.9883 \text{ volts}$$
+
+---
+
+R_parallel = 5.9733
+VB = 14.9883"
+81,5,bare,7.8838,7.757,7.8839,1.2461,1,0,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/3527.1 = 0.0002835
+- 1/R2 = 1/24.4 = 0.0409836
+- 1/R3 = 1/30.8 = 0.0324675
+- 1/R4 = 1/24.1 = 0.0414938
+- 1/R5 = 1/86.1 = 0.0116141
+
+Sum: 0.0002835 + 0.0409836 + 0.0324675 + 0.0414938 + 0.0116141 = 0.1268425
+
+$$R_{parallel} = \frac{1}{0.1268425} = 7.8839 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 7.8839 + 49.2 = 57.0839 \text{ ohms}$$
+
+The total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{9.0}{57.0839} = 0.1576 \text{ A}$$
+
+The voltage at node B (voltage drop across R_parallel):
+$$V_B = V_A - I \times R_{series} = 9.0 - 0.1576 \times 49.2 = 9.0 - 7.7539 = 1.2461 \text{ V}$$
+
+R_parallel = 7.8839
+VB = 1.2461"
+82,5,bare,22.6486,4.9337,22.6489,4.9337,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors: 1/R_parallel = 1/R1 + 1/R2 + 1/R3 + 1/R4 + 1/R5
+
+Calculating each reciprocal:
+- 1/R1 = 1/78.8 = 0.012690355
+- 1/R2 = 1/37.6 = 0.026595745
+- 1/R3 = 1/3699.2 = 0.000270345
+- 1/R4 = 1/1930.0 = 0.000518135
+- 1/R5 = 1/245.2 = 0.004078251
+
+Sum: 1/R_parallel = 0.044152831
+
+R_parallel = 1/0.044152831 = **22.6489 ohms**
+
+## STEP 2: Find VB
+
+The circuit forms a voltage divider with R_parallel and R_series in series from VA to GND.
+
+Using the voltage divider formula:
+$$V_B = V_A \times \frac{R_{series}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{1686.3}{22.6489 + 1686.3}$$
+
+$$V_B = 5.0 \times \frac{1686.3}{1708.9489}$$
+
+$$V_B = 5.0 \times 0.986747$$
+
+$$V_B = \textbf{4.9337 volts}$$
+
+R_parallel = 22.6489
+VB = 4.9337"
+83,5,bare,26.2224,11.3366,26.2207,11.3363,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/1194.3 = 0.0008374
+- 1/R2 = 1/332.0 = 0.0030120
+- 1/R3 = 1/38.1 = 0.0262467
+- 1/R4 = 1/993.1 = 0.0010069
+- 1/R5 = 1/142.2 = 0.0070365
+
+Sum: 1/R_parallel = 0.0381395
+
+$$R_{parallel} = \frac{1}{0.0381395} = 26.2207 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 26.2207 + 448.1 = 474.3207 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{12.0}{474.3207} = 0.025308 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = V_A - I \times R_{parallel} = 12.0 - 0.025308 \times 26.2207 = 12.0 - 0.6637 = 11.3363 \text{ V}$$
+
+R_parallel = 26.2207
+VB = 11.3363"
+84,5,bare,34.8008,3.2084,25.1609,7.9753,0,0,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculate each reciprocal:
+- 1/R1 = 1/7423.1 = 0.0001347088
+- 1/R2 = 1/5226.3 = 0.0001913419
+- 1/R3 = 1/47.6 = 0.0210084034
+- 1/R4 = 1/1647.4 = 0.0006070018
+- 1/R5 = 1/147.2 = 0.0067928030
+
+Sum: 0.0397442589
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.0397442589} = 25.1609 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit is:
+$$R_{total} = R_{parallel} + R_{series} = 25.1609 + 12.7 = 37.8609 \text{ ohms}$$
+
+The current from VA through the circuit:
+$$I = \frac{V_A}{R_{total}} = \frac{12.0}{37.8609} = 0.316906 \text{ A}$$
+
+The voltage at node B (voltage drop across R_parallel):
+$$V_B = V_A - I \times R_{series} = 12.0 - 0.316906 \times 12.7 = 12.0 - 4.0247 = 7.9753 \text{ V}$$
+
+R_parallel = 25.1609
+VB = 7.9753"
+85,5,bare,5.6422,11.9902,5.6424,11.9902,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/31.3 = 0.031949522
+- 1/R2 = 1/105.0 = 0.009523810
+- 1/R3 = 1/1429.9 = 0.000699790
+- 1/R4 = 1/25.7 = 0.038910506
+- 1/R5 = 1/10.4 = 0.096153846
+
+Sum: 0.177237474
+
+$$R_{parallel} = \frac{1}{0.177237474} = 5.6424 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The circuit from VA to GND consists of R_parallel and R_series in series.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 5.6424 + 6884.8 = 6890.4424 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{12.0}{6890.4424} = 0.001741 \text{ A}$$
+
+Voltage at node B (voltage drop across R_parallel):
+$$V_B = V_A - I \times R_{parallel} = 12.0 - 0.001741 \times 5.6424 = 12.0 - 0.0098 = 11.9902 \text{ V}$$
+
+R_parallel = 5.6424
+VB = 11.9902"
+86,5,bare,34.663,4.8766,25.741,0.0923,0,0,0,"# Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/4263.4 = 0.0002345627
+- 1/R2 = 1/875.9 = 0.0011416267
+- 1/R3 = 1/5107.9 = 0.0001957747
+- 1/R4 = 1/1854.4 = 0.0005392097
+- 1/R5 = 1/37.4 = 0.0267379679
+
+Sum = 0.0388491417
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.0388491417} = 25.7410 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is a voltage divider: VA with R_parallel in series with R_series.
+
+Using the voltage divider formula:
+$$V_B = V_A \times \frac{R_{parallel}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{25.7410}{25.7410 + 1369.7}$$
+
+$$V_B = 5.0 \times \frac{25.7410}{1395.4410}$$
+
+$$V_B = 5.0 \times 0.018451 = 0.0923 \text{ volts}$$
+
+R_parallel = 25.7410
+VB = 0.0923"
+87,5,bare,48.5042,14.2859,48.5046,14.2788,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors: 1/R_parallel = 1/R1 + 1/R2 + 1/R3 + 1/R4 + 1/R5
+
+Calculating each reciprocal:
+- 1/R1 = 1/102.4 = 0.009765625
+- 1/R2 = 1/108.5 = 0.009216589
+- 1/R3 = 1/1254.6 = 0.000796799
+- 1/R4 = 1/1540.7 = 0.000649117
+- 1/R5 = 1/5306.5 = 0.000188449
+
+Sum: 1/R_parallel = 0.009765625 + 0.009216589 + 0.000796799 + 0.000649117 + 0.000188449 = 0.020616579
+
+R_parallel = 1/0.020616579 = **48.5046 ohms**
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA ---[R_parallel]---[R_series]--- GND
+
+Total resistance: R_total = R_parallel + R_series = 48.5046 + 970.4 = 1018.9046 ohms
+
+Total current: I = VA / R_total = 15.0 / 1018.9046 = 0.014718 A
+
+Voltage at node B (using voltage divider):
+VB = VA × R_series / R_total = 15.0 × 970.4 / 1018.9046 = **14.2788 volts**
+
+R_parallel = 48.5046
+VB = 14.2788"
+88,5,bare,6.8155,23.3826,6.8149,23.3829,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/302.8 = 0.003303481
+- 1/R2 = 1/9.8 = 0.102040816
+- 1/R3 = 1/46.4 = 0.021551724
+- 1/R4 = 1/52.3 = 0.019112090
+- 1/R5 = 1/1409.8 = 0.000709087
+
+Sum: 0.146717198
+
+$$R_{parallel} = \frac{1}{0.146717198} = 6.8149 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 6.8149 + 258.1 = 264.9149 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{24.0}{264.9149} = 0.090596 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 24.0 - 0.090596 \times 6.8149 = 24.0 - 0.6171 = 23.3829 \text{ V}$$
+
+R_parallel = 6.8149
+VB = 23.3829"
+89,5,bare,31.1083,4.1482,30.7449,4.1552,0,1,0,"# Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/67.6 = 0.014792899
+- 1/R2 = 1/91.5 = 0.010928962
+- 1/R3 = 1/1608.8 = 0.000621577
+- 1/R4 = 1/193.3 = 0.005173440
+- 1/R5 = 1/1589.7 = 0.000629019
+
+Sum: 1/R_parallel = 0.032525897
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.032525897} = 30.7449 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 30.7449 + 151.5 = 182.2449 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{5.0}{182.2449} = 0.027427 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.027427 \times 151.5 = 4.1552 \text{ V}$$
+
+R_parallel = 30.7449
+VB = 4.1552"
+90,5,bare,15.4082,2.666,15.4084,2.6648,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/91.8 = 0.010893246
+- 1/R2 = 1/841.2 = 0.001188679
+- 1/R3 = 1/6580.5 = 0.000151893
+- 1/R4 = 1/28.3 = 0.035335689
+- 1/R5 = 1/57.7 = 0.017331839
+
+Sum: 0.064901346
+
+$$R_{parallel} = \frac{1}{0.064901346} = 15.4084 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance from VA to GND is:
+$$R_{total} = R_{parallel} + R_{series} = 15.4084 + 17.6 = 33.0084 \text{ ohms}$$
+
+Using voltage divider:
+$$V_B = V_A \times \frac{R_{series}}{R_{total}} = 5.0 \times \frac{17.6}{33.0084} = 5.0 \times 0.532968 = 2.6648 \text{ volts}$$
+
+R_parallel = 15.4084
+VB = 2.6648"
+91,5,bare,94.0839,0.5822,94.0783,0.5842,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/2277.2 = 0.0004391
+- 1/R2 = 1/6364.3 = 0.0001571
+- 1/R3 = 1/7397.2 = 0.0001352
+- 1/R4 = 1/108.4 = 0.0092251
+- 1/R5 = 1/1487.5 = 0.0006723
+
+Sum: 1/R_parallel = 0.0106288
+
+Therefore: **R_parallel = 94.0783 ohms**
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA in series with R_parallel and R_series to GND.
+
+Total resistance: R_total = R_parallel + R_series = 94.0783 + 12.4 = 106.4783 ohms
+
+Current through circuit:
+$$I = \frac{V_A}{R_{total}} = \frac{5.0}{106.4783} = 0.046960 \text{ A}$$
+
+Voltage at node B (voltage drop across R_parallel):
+$$V_B = V_A - I \times R_{parallel} = 5.0 - 0.046960 \times 94.0783 = 5.0 - 4.4158 = 0.5842 \text{ V}$$
+
+R_parallel = 94.0783
+VB = 0.5842"
+92,5,bare,22.143,2.8852,22.1408,2.8853,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/6084.7 = 0.00016431 S
+- 1/R2 = 1/35.6 = 0.02809006 S
+- 1/R3 = 1/1005.5 = 0.00099453 S
+- 1/R4 = 1/163.2 = 0.00612745 S
+- 1/R5 = 1/102.2 = 0.00978473 S
+
+Sum: 1/R_parallel = 0.04516108 S
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.04516108} = 22.1408 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 22.1408 + 154.0 = 176.1408 \text{ ohms}$$
+
+The total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{176.1408} = 0.018729 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.018729 \times 22.1408 = 3.3 - 0.4147 = 2.8853 \text{ V}$$
+
+R_parallel = 22.1408
+VB = 2.8853"
+93,5,bare,48.5848,8.2775,48.5436,8.2747,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/3604.8 = 0.0002774193
+- 1/R2 = 1/178.0 = 0.0056179775
+- 1/R3 = 1/130.9 = 0.0076366893
+- 1/R4 = 1/407.8 = 0.0024522563
+- 1/R5 = 1/217.6 = 0.0045960370
+
+Sum: 1/R_parallel = 0.0206003794
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.0206003794} = 48.5436 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is a voltage divider: VA with R_parallel in series with R_series.
+
+Total resistance: R_total = R_parallel + R_series = 48.5436 + 556.6 = 605.1436 ohms
+
+Current from VA: 
+$$I = \frac{V_A}{R_{total}} = \frac{9.0}{605.1436} = 0.014873 \text{ A}$$
+
+Voltage at node B (voltage across R_series):
+$$V_B = I \times R_{series} = 0.014873 \times 556.6 = 8.2747 \text{ V}$$
+
+R_parallel = 48.5436
+VB = 8.2747"
+94,5,bare,4.9325,10.5516,4.9325,10.5515,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/15.3 = 0.065359477
+- 1/R2 = 1/9.4 = 0.106382979
+- 1/R3 = 1/854.9 = 0.001169668
+- 1/R4 = 1/35.4 = 0.028248588
+- 1/R5 = 1/634.6 = 0.001576329
+
+Sum: 0.202737041
+
+$$R_{parallel} = \frac{1}{0.202737041} = 4.9325 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total circuit resistance is:
+$$R_{total} = R_{parallel} + R_{series} = 4.9325 + 11.7 = 16.6325 \text{ ohms}$$
+
+The total current from VA is:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{15.0}{16.6325} = 0.9018 \text{ A}$$
+
+The voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{parallel} = 15.0 - 0.9018 \times 4.9325 = 15.0 - 4.4485 = 10.5515 \text{ V}$$
+
+R_parallel = 4.9325
+VB = 10.5515"
+95,5,bare,33.5938,2.032,25.7945,2.6435,0,0,0,"# Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/2719.7 = 0.00036764
+- 1/R2 = 1/1817.7 = 0.00055007
+- 1/R3 = 1/5142.5 = 0.00019445
+- 1/R4 = 1/795.0 = 0.00125786
+- 1/R5 = 1/36.5 = 0.02739726
+
+Sum: 1/R_parallel = 0.03876728
+
+Therefore:
+$$R_{parallel} = \frac{1}{0.03876728} = 25.7945 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The parallel resistors and series resistor form a voltage divider:
+$$V_B = V_A \times \frac{R_{parallel}}{R_{parallel} + R_{series}}$$
+
+$$V_B = 5.0 \times \frac{25.7945}{25.7945 + 23.0}$$
+
+$$V_B = 5.0 \times \frac{25.7945}{48.7945} = 5.0 \times 0.52869 = 2.6435 \text{ volts}$$
+
+R_parallel = 25.7945
+VB = 2.6435"
+96,5,bare,22.1962,4.7881,22.1945,4.7844,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors: 1/R_parallel = 1/R1 + 1/R2 + 1/R3 + 1/R4 + 1/R5
+
+Calculating each reciprocal:
+- 1/R1 = 1/23.5 = 0.042553191
+- 1/R2 = 1/6290.0 = 0.000159046
+- 1/R3 = 1/3298.0 = 0.000303245
+- 1/R4 = 1/961.4 = 0.001040164
+- 1/R5 = 1/1002.8 = 0.000997209
+
+Sum: 1/R_parallel = 0.042553191 + 0.000159046 + 0.000303245 + 0.001040164 + 0.000997209 = 0.045052855
+
+R_parallel = 1/0.045052855 = **22.1945 ohms**
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA ---[R_parallel]---[R_series]--- GND
+
+Total resistance: R_total = R_parallel + R_series = 22.1945 + 501.6 = 523.7945 ohms
+
+Total current: I = VA / R_total = 5.0 / 523.7945 = 0.009543 A
+
+Voltage at node B (using voltage divider):
+VB = VA × R_series / R_total = 5.0 × 501.6 / 523.7945 = **4.7844 volts**
+
+R_parallel = 22.1945
+VB = 4.7844"
+97,5,bare,62.739,8.8441,64.8089,8.8391,0,1,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/8826.3 = 0.00011329 S
+- 1/R2 = 1/498.3 = 0.00200682 S
+- 1/R3 = 1/5432.2 = 0.00018408 S
+- 1/R4 = 1/271.4 = 0.00368505 S
+- 1/R5 = 1/100.5 = 0.00994036 S
+
+Sum: 1/R_parallel = 0.01542960 S
+
+$$R_{parallel} = \frac{1}{0.01542960} = 64.8089 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now a voltage divider: VA with R_parallel in series with R_series.
+
+Total resistance: R_total = R_parallel + R_series = 64.8089 + 3558.9 = 3623.7089 ohms
+
+Current from VA: 
+$$I = \frac{V_A}{R_{total}} = \frac{9.0}{3623.7089} = 0.002483 \text{ A}$$
+
+Voltage at node B (voltage across R_parallel):
+$$V_B = V_A - I \times R_{parallel} = 9.0 - 0.002483 \times 64.8089 = 9.0 - 0.1609 = 8.8391 \text{ V}$$
+
+R_parallel = 64.8089
+VB = 8.8391"
+98,5,bare,7.2128,3.1602,7.2084,3.1619,1,1,1,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/1830.5 = 0.0005463
+- 1/R2 = 1/2897.1 = 0.0003452
+- 1/R3 = 1/9.5 = 0.1052632
+- 1/R4 = 1/153.5 = 0.0065145
+- 1/R5 = 1/38.5 = 0.0259740
+
+Sum: 1/R_parallel = 0.1052632 + 0.0065145 + 0.0259740 + 0.0005463 + 0.0003452 = 0.1386432
+
+$$R_{parallel} = \frac{1}{0.1386432} = 7.2084 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is now: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 7.2084 + 163.1 = 170.3084 \text{ ohms}$$
+
+Total current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{170.3084} = 0.019382 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = I \times R_{series} = 0.019382 \times 163.1 = 3.1619 \text{ V}$$
+
+Alternatively: $V_B = V_A - I \times R_{parallel} = 3.3 - 0.019382 \times 7.2084 = 3.1619$ V ✓
+
+R_parallel = 7.2084
+VB = 3.1619"
+99,5,bare,8.6822,14.209,8.682,9.7922,1,0,0,"# DC Resistor Circuit Solution
+
+## STEP 1: Find R_parallel
+
+For resistors in parallel, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/11.3 = 0.088495575
+- 1/R2 = 1/122.4 = 0.008169935
+- 1/R3 = 1/7471.2 = 0.000133816
+- 1/R4 = 1/66.9 = 0.014948927
+- 1/R5 = 1/291.5 = 0.003431954
+
+Sum: 0.115180207
+
+$$R_{parallel} = \frac{1}{0.115180207} = 8.6820 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The total resistance in the circuit:
+$$R_{total} = R_{parallel} + R_{series} = 8.6820 + 12.6 = 21.2820 \text{ ohms}$$
+
+Total current from VA:
+$$I_{total} = \frac{V_A}{R_{total}} = \frac{24.0}{21.2820} = 1.1276 \text{ A}$$
+
+Voltage at node B (using voltage divider):
+$$V_B = V_A - I_{total} \times R_{series} = 24.0 - 1.1276 \times 12.6 = 24.0 - 14.2078 = 9.7922 \text{ V}$$
+
+R_parallel = 8.6820
+VB = 9.7922"
+100,5,bare,58.4262,2.9012,58.4179,2.9013,1,1,1,"# Solution
+
+## STEP 1: Find R_parallel
+
+The five resistors (R1, R2, R3, R4, R5) are connected in parallel from VA to node B.
+
+For parallel resistors, use:
+$$\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \frac{1}{R_4} + \frac{1}{R_5}$$
+
+Calculating each reciprocal:
+- 1/R1 = 1/153.8 = 0.006502604
+- 1/R2 = 1/1105.3 = 0.000904977
+- 1/R3 = 1/1929.6 = 0.000518245
+- 1/R4 = 1/2527.8 = 0.000395596
+- 1/R5 = 1/113.7 = 0.008794642
+
+Sum = 0.017116064
+
+$$R_{parallel} = \frac{1}{0.017116064} = 58.4179 \text{ ohms}$$
+
+## STEP 2: Find VB
+
+The equivalent circuit is: VA in series with R_parallel and R_series to GND.
+
+Total resistance:
+$$R_{total} = R_{parallel} + R_{series} = 58.4179 + 425.1 = 483.5179 \text{ ohms}$$
+
+Current from VA:
+$$I = \frac{V_A}{R_{total}} = \frac{3.3}{483.5179} = 0.006825 \text{ A}$$
+
+Voltage at node B (voltage drop across R_series):
+$$V_B = V_A - I \times R_{parallel} = 3.3 - 0.006825 \times 58.4179 = 3.3 - 0.3987 = 2.9013 \text{ V}$$
+
+R_parallel = 58.4179
+VB = 2.9013"
