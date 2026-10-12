@@ -148,8 +148,8 @@ The rule never hurt (c = 0 in every case), and it fixed every bare error. The er
 ├── circuit_measurements_v6.json    circuits from the original Kaggle run
 ├── results_bare.csv                Claude's answers, bare condition
 ├── results_explicit.csv            Claude's answers, explicit condition
-├── overview_deck.pdf               full write-up with diagrams
-└── results_deck.pdf                McNemar results
+├── overview deck.pdf               full write-up with diagrams
+└── results deck.pdf                McNemar results
 ```
 
 ## How to run
